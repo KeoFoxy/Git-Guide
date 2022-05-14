@@ -79,7 +79,7 @@ P.S В данной инструкции в командах будет прис
 Если на Windows возникают проблемы, то используйте команду: `start-ssh-agent`, если и это не помогло, то используйте **Git Bash**.  
 
 Добавляем ключ `ssh-add ~/.ssh/Имя ключа` *Пример `ssh-add ~/.ssh/id_rsa`*  
-![SSH-Agent-GitBash](pic/GitBash.PNG)  
+![SSH-AgentGitBash](pic/GitBash.PNG)  
 
 
 **Несколько важный примечаний:**
