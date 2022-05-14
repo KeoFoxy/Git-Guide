@@ -24,8 +24,8 @@
 
 ### **Регистрация на GitHub**  
 
-Переходим на [сайт Github](https://github.com/) и регистрируемся. Не забудьте подтверlить почту.  
-Поздравляю! Теперь у Вас есть аккаунт на GitHub. После регистрации и подтверждения почты, гитхаб сам предложит создать репозиторий. 
+Переходим на [сайт Github](https://github.com/) и регистрируемся. Не забудьте подтвердить почту.  
+Поздравляю! Теперь у Вас есть аккаунт на GitHub.
 
 ### **SSH-Ключ**  
 Как настроить **SSH-ключ** вы можете прочитать в [**этой статье**](https://htmlacademy.ru/blog/useful/git/git-console) или в [**этой**](https://www.atlassian.com/git/tutorials/git-ssh), на крайний случай вам может помочь [**официальная документация GitHub**](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).  Рекомендую выполнять эти действия в [**GitBash**](#gitbash)
