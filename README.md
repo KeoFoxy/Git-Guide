@@ -1,4 +1,9 @@
-# Git Guide
+# Git Guide  
+### _Ссылки на альтернативные статьи_  
+[**Статья по Git на Habr**](https://habr.com/ru/post/273897/)  
+[**Статья по Git на HTML-Academy**](https://htmlacademy.ru/blog/useful/git/git-console)  
+[**Git и GitHub Курс для Новичков**](https://youtu.be/zZBiln_2FhM)
+
 ## _Инструкция по использованию GIT_  
 [**Если вы не программист и не хотите заморачиваться с консолью, то вам сюда**](#github-desktop)  
 [**GitHub для Visual Studio Code**](#githib-в-visual-studio-code)  
